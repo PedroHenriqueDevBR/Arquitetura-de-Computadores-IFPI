@@ -1,0 +1,10 @@
+Anotações dos registradores
+
+R0 - Registrador auxiliar, serve para armazenar um valor por um curto intervalo de tempo
+R1 - Armazena o primeiro valor para verificação no algoritmo
+R2 - Armazena o segundo valor para verificação no algoritmo
+R3 - Aponta para a primeira posição em execução 
+R4 - Aponta para a segunda posição em execução
+R5 - 
+R6 - Flag para verificar se a lista está ordenada
+R7 - Auxiliar para o swap
