@@ -1,4 +1,4 @@
-	    lw 1,0,a
+	lw 1,0,a
         lw 2,0,b
         lw 3,0,c
         beq 0,0,start
