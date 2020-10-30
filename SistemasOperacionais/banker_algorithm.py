@@ -24,6 +24,9 @@ class BankersAlgothm:
             })
         self.free_resource = self.type_count - resource_execute_total
 
+    def verify_deadlock(self):
+        is_valid = True
+
     def show_matrix(self):
         print('='*30)
         for item in self.matrix_resources:
